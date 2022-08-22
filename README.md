@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='http://g.recordit.co/zItO4yIkka.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [Kap](https://getkap.co/) for macOS
+GIF created with [RecordIt](https://recordit.co/) for macOS
 
 ## Notes
 
